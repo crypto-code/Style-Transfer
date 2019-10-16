@@ -9,7 +9,8 @@ Use Neural Networks to Paint Images in Famous Styles
 
 ## Installation:
 * Download and extract entire repositry
-* Open cmd and run
+* Open cmd and run the following to install required modules
 ```
 pip install -r requirements.txt
 ```
+* Open cmd and run the following to install required modules

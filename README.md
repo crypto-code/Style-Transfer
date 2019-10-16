@@ -1,5 +1,15 @@
 # Style-Transfer
 Use Neural Networks to Paint Images in Famous Styles
 
+## Requirements:
+* Python 3.6.2 (https://www.python.org/downloads/release/python-362/)
+* Numpy (https://pypi.org/project/numpy/)
+* Tensorflow (https://pypi.org/project/tensorflow/)
+* Keras (https://pypi.org/project/Keras/)
+
 ## Installation:
--Download and extract entire repositry
+* Download and extract entire repositry
+* Open cmd and run
+```
+pip install -r requirements.txt
+```

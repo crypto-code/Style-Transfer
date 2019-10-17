@@ -1,3 +1,6 @@
+import warnings as w
+w.simplefilter(action = 'ignore')
+
 import os
 import math
 import re

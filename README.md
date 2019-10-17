@@ -13,4 +13,4 @@ Use Neural Networks to Paint Images in Famous Styles
 ```
 pip install -r requirements.txt
 ```
-* Open cmd and run the following to install required modules
+* Once requirements are installed download a painting of any style you need, eg-Mona Lisa (Already provided) and the original image to be painted.

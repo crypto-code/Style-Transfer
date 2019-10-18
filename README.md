@@ -13,5 +13,5 @@ Use Neural Networks to Paint Images in Famous Styles
 ```
 pip install -r requirements.txt
 ```
-* Once requirements are installed download a painting of any style you need, eg-Raphael's Potrait of a Young Man (Already provided) and the original image to be painted (Emma Watson).
+* Once requirements are installed download a painting of any style you need, eg- Scream (Already provided) and the original image to be painted (Golden Gate Bridge).
 

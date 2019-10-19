@@ -13,7 +13,7 @@ Use Neural Networks to Paint Images in Famous Styles
 ```
 pip install -r requirements.txt
 ```
-* [Pre-trained VGG network][net] (MD5 `106118b7cf60435e6d8e04f6a6dc3657`) - put it in the top level of this repository, or specify its location using the `--network` option.`
+* [Pre-trained VGG network][http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat] (MD5 `106118b7cf60435e6d8e04f6a6dc3657`) - put it in the top level of this repository, or specify its location using the `--network` option.`
 
 * Once requirements are installed download a painting of any style you need, eg- Scream (Already provided) and the original image to be painted (Golden Gate Bridge).
 

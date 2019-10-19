@@ -29,7 +29,7 @@ Use `--checkpoint-output` and `--checkpoint-iterations` to change checkpoint sav
 
 Use `--iterations` to change the number of iterations (default: 500).
 
-## Example 1:
+## Examples:
 ![output](assets/gate_final.jpg)
 
 

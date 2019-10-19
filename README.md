@@ -15,3 +15,8 @@ pip install -r requirements.txt
 ```
 * Once requirements are installed download a painting of any style you need, eg- Scream (Already provided) and the original image to be painted (Golden Gate Bridge).
 
+## Running
+
+`python neural_style.py --content <content file> --styles <style file> --output <output file>`
+
+Run `python neural_style.py --help` to see a list of all options.

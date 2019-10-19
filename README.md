@@ -21,6 +21,6 @@ python neural_style.py --content <content file> --styles <style file> --output <
 ```
 Run `python neural_style.py --help` to see a list of all options.
 
-Use `--checkpoint-output` and `--checkpoint-iterations` to save checkpoint images.
+Use `--checkpoint-output` and `--checkpoint-iterations` to change checkpoint save location and iteration (default: 'output/output_{:05}.jpg', 10).
 
-Use `--iterations` to change the number of iterations (default 1000).
+Use `--iterations` to change the number of iterations (default: 500).

@@ -1,5 +1,6 @@
 # Style-Transfer
 Use Neural Networks to Paint Images in Famous Styles
+For more info: [Research Paper][paper]
 
 ## Requirements:
 * Python 3.6.2 (https://www.python.org/downloads/release/python-362/)
@@ -28,3 +29,4 @@ Use `--checkpoint-output` and `--checkpoint-iterations` to change checkpoint sav
 Use `--iterations` to change the number of iterations (default: 500).
 
 [net]: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
+[paper]: http://arxiv.org/pdf/1508.06576v2.pdf

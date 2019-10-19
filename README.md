@@ -17,9 +17,9 @@ pip install -r requirements.txt
 
 ## Running
 ```
-python neural_style.py --content <content file> --styles <style file> --output <output file>
+python style_transfer.py --content <content file> --styles <style file> --output <output file>
 ```
-Run `python neural_style.py --help` to see a list of all options.
+Run `python style_transfer.py --help` to see a list of all options.
 
 Use `--checkpoint-output` and `--checkpoint-iterations` to change checkpoint save location and iteration (default: 'output/output_{:05}.jpg', 10).
 

@@ -15,7 +15,7 @@ For more info: [Research Paper][paper]
 ```
 pip install -r requirements.txt 
 ```
-* [Pre-trained VGG network][net] - put it in the top level of this repository, or specify its location using the `--network` option.`
+* Download [Pre-trained VGG network][net] and put it in the main file, or specify its location using the `--network` option.
 
 * Once requirements are installed download a painting of any style you need, eg- Scream (Already provided) and the original image to be painted (Golden Gate Bridge).
 

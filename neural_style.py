@@ -25,7 +25,7 @@ BETA1 = 0.9
 BETA2 = 0.999
 EPSILON = 1e-08
 STYLE_SCALE = 1.0
-ITERATIONS = 1000
+ITERATIONS = 500
 VGG_PATH = 'imagenet-vgg-verydeep-19.mat'
 POOLING = 'max'
 
@@ -52,10 +52,10 @@ def build_parser():
             dest='checkpoint_output',
             help='checkpoint output format, e.g. output_{:05}.jpg or '
                  'output_%%05d.jpg',
-            metavar='OUTPUT', default=None)
+            metavar='OUTPUT', default='checkpoint/output_{:05}.jpg')
     parser.add_argument('--checkpoint-iterations', type=int,
             dest='checkpoint_iterations', help='checkpoint frequency',
-            metavar='CHECKPOINT_ITERATIONS', default=None)
+            metavar='CHECKPOINT_ITERATIONS', default=10)
     parser.add_argument('--progress-write', default=False, action='store_true',
             help="write iteration progess data to OUTPUT's dir",
             required=False)

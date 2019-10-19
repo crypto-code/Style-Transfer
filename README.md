@@ -11,7 +11,7 @@ Use Neural Networks to Paint Images in Famous Styles
 * Download and extract entire repositry
 * Open cmd and run the following to install required modules
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 * [Pre-trained VGG network][http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat] (MD5 `106118b7cf60435e6d8e04f6a6dc3657`) - put it in the top level of this repository, or specify its location using the `--network` option.`
 

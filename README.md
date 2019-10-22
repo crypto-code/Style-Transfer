@@ -31,13 +31,11 @@ Use `--iterations` to change the number of iterations (default: 500).
 
 ## Examples:
 <p align="center">
-<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/gate_final.jpg" width="600" align="middle" />
+<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/gate_final.jpg" width="600" align="middle" />   </p>
 With Golden Gate Bridge and the Scream
-  </p>
   <p align="center">
-<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/output_final.jpg" width="400" align="middle" />
+<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/output_final.jpg" width="400" align="middle" />  </p>
 With Emma Watson and Mona Lisa
- </p>
 
 [net]: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf

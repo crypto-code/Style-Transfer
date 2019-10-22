@@ -31,7 +31,7 @@ Use `--iterations` to change the number of iterations (default: 500).
 
 ## Examples:
 ![With Golden Gate Bridge and the scream.](assets/gate_final.jpg)
-
+With Golden Gate Bridge and the scream.
 
 [net]: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf

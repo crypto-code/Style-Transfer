@@ -31,9 +31,8 @@ Use `--iterations` to change the number of iterations (default: 500).
 
 ## Examples:
 <img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/gate_final.jpg" width="400" />
-![OUT](assets/gate_final.jpg | width=200)
 With Golden Gate Bridge and the Scream
-![OUT](assets/output_final.jpg)
+<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/output_final.jpg" width="400" />
 With Emma Watson and Mona Lisa
 
 [net]: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat

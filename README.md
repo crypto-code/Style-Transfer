@@ -30,9 +30,9 @@ Use `--checkpoint-output` and `--checkpoint-iterations` to change checkpoint sav
 Use `--iterations` to change the number of iterations (default: 500).
 
 ## Examples:
-<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/gate_final.jpg" width="600" />
+<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/gate_final.jpg" width="600" align="centre" />
 With Golden Gate Bridge and the Scream
-<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/output_final.jpg" width="400" />
+<img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/output_final.jpg" width="400" align="centre" />
 With Emma Watson and Mona Lisa
 
 [net]: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat

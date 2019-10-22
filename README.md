@@ -30,6 +30,7 @@ Use `--checkpoint-output` and `--checkpoint-iterations` to change checkpoint sav
 Use `--iterations` to change the number of iterations (default: 500).
 
 ## Examples:
+<img src="https://github.com/crypto-code/Style-Transfer/assests/gate_final.jpg" width="400"/>
 ![OUT](assets/gate_final.jpg | width=200)
 With Golden Gate Bridge and the Scream
 ![OUT](assets/output_final.jpg)

@@ -37,5 +37,10 @@ Use `--iterations` to change the number of iterations (default: 500).
 <img src="https://github.com/crypto-code/Style-Transfer/blob/master/assets/output_final.jpg" width="400" align="middle" />  </p>
 <p align="center">With Emma Watson and Mona Lisa</p>
 
+# G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
+
 [net]: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
